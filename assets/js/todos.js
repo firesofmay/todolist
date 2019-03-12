@@ -15,7 +15,7 @@ function updateTodo(val){
 
 function resetTodos() {  
     localStorage.removeItem(listItemsKey);
-    $('ul').html(defaultTodos);
+    $('ul').html(null);
 }
 
 
