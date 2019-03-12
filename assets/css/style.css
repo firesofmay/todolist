@@ -95,3 +95,16 @@ input:focus{
 .fa-plus{
     float: right;
 }
+
+.fa-plus:hover{
+    color: aqua;
+}
+
+#reset{
+    float: right;
+    margin-right: 20px;
+}
+
+#reset:hover{
+    color: aqua;
+}
